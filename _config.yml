@@ -96,12 +96,12 @@ author:
   name             : "ejline"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Software Engineer"
-  location         : "Seoul, Korea"
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "dladmswls1991@google.com"
+      url: "mailto:dladmswls1991@google.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -278,4 +278,4 @@ defaults:
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
